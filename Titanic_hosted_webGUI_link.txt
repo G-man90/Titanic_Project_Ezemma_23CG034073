@@ -2,5 +2,5 @@ Name: Greatman
 Matric Number: XXXX
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://your-deployed-app-link
+Live URL: https://titanic-project-ezemma-23cg034073.onrender.com
 GitHub Repository: https://https://github.com/G-man90/Titanic_Project_Ezemma_23CG034073
